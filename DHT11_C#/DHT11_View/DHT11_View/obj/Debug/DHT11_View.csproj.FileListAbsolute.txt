@@ -1,0 +1,18 @@
+d:\User\Documents\Visual Studio 2017\Projects\DHT11_View\DHT11_View\bin\Debug\DHT11_View.exe
+d:\User\Documents\Visual Studio 2017\Projects\DHT11_View\DHT11_View\bin\Debug\DHT11_View.pdb
+d:\User\Documents\Visual Studio 2017\Projects\DHT11_View\DHT11_View\obj\Debug\DHT11_View.csprojAssemblyReference.cache
+d:\User\Documents\Visual Studio 2017\Projects\DHT11_View\DHT11_View\obj\Debug\DHT11_View.Form1.resources
+d:\User\Documents\Visual Studio 2017\Projects\DHT11_View\DHT11_View\obj\Debug\DHT11_View.Properties.Resources.resources
+d:\User\Documents\Visual Studio 2017\Projects\DHT11_View\DHT11_View\obj\Debug\DHT11_View.csproj.GenerateResource.cache
+d:\User\Documents\Visual Studio 2017\Projects\DHT11_View\DHT11_View\obj\Debug\DHT11_View.csproj.CoreCompileInputs.cache
+d:\User\Documents\Visual Studio 2017\Projects\DHT11_View\DHT11_View\obj\Debug\DHT11_View.exe
+d:\User\Documents\Visual Studio 2017\Projects\DHT11_View\DHT11_View\obj\Debug\DHT11_View.pdb
+D:\lap trinh\c#\DHT11_C#\DHT11_View\DHT11_View\bin\Debug\DHT11_View.exe
+D:\lap trinh\c#\DHT11_C#\DHT11_View\DHT11_View\bin\Debug\DHT11_View.pdb
+D:\lap trinh\c#\DHT11_C#\DHT11_View\DHT11_View\obj\Debug\DHT11_View.csproj.AssemblyReference.cache
+D:\lap trinh\c#\DHT11_C#\DHT11_View\DHT11_View\obj\Debug\DHT11_View.Form1.resources
+D:\lap trinh\c#\DHT11_C#\DHT11_View\DHT11_View\obj\Debug\DHT11_View.Properties.Resources.resources
+D:\lap trinh\c#\DHT11_C#\DHT11_View\DHT11_View\obj\Debug\DHT11_View.csproj.GenerateResource.cache
+D:\lap trinh\c#\DHT11_C#\DHT11_View\DHT11_View\obj\Debug\DHT11_View.csproj.CoreCompileInputs.cache
+D:\lap trinh\c#\DHT11_C#\DHT11_View\DHT11_View\obj\Debug\DHT11_View.exe
+D:\lap trinh\c#\DHT11_C#\DHT11_View\DHT11_View\obj\Debug\DHT11_View.pdb

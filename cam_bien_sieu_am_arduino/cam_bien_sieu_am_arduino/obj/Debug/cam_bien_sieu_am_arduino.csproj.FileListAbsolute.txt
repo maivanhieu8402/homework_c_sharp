@@ -1,0 +1,10 @@
+D:\lap trinh\c#\cam_bien_sieu_am_arduino\cam_bien_sieu_am_arduino\bin\Debug\cam_bien_sieu_am_arduino.exe.config
+D:\lap trinh\c#\cam_bien_sieu_am_arduino\cam_bien_sieu_am_arduino\bin\Debug\cam_bien_sieu_am_arduino.exe
+D:\lap trinh\c#\cam_bien_sieu_am_arduino\cam_bien_sieu_am_arduino\bin\Debug\cam_bien_sieu_am_arduino.pdb
+D:\lap trinh\c#\cam_bien_sieu_am_arduino\cam_bien_sieu_am_arduino\obj\Debug\cam_bien_sieu_am_arduino.csproj.AssemblyReference.cache
+D:\lap trinh\c#\cam_bien_sieu_am_arduino\cam_bien_sieu_am_arduino\obj\Debug\cam_bien_sieu_am_arduino.Form1.resources
+D:\lap trinh\c#\cam_bien_sieu_am_arduino\cam_bien_sieu_am_arduino\obj\Debug\cam_bien_sieu_am_arduino.Properties.Resources.resources
+D:\lap trinh\c#\cam_bien_sieu_am_arduino\cam_bien_sieu_am_arduino\obj\Debug\cam_bien_sieu_am_arduino.csproj.GenerateResource.cache
+D:\lap trinh\c#\cam_bien_sieu_am_arduino\cam_bien_sieu_am_arduino\obj\Debug\cam_bien_sieu_am_arduino.csproj.CoreCompileInputs.cache
+D:\lap trinh\c#\cam_bien_sieu_am_arduino\cam_bien_sieu_am_arduino\obj\Debug\cam_bien_sieu_am_arduino.exe
+D:\lap trinh\c#\cam_bien_sieu_am_arduino\cam_bien_sieu_am_arduino\obj\Debug\cam_bien_sieu_am_arduino.pdb

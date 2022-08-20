@@ -1,0 +1,20 @@
+C:\Users\STOnline\source\repos\bai 1 chuong 3132\bai 1 chuong 3132\bin\Debug\bai 1 chuong 3132.exe.config
+C:\Users\STOnline\source\repos\bai 1 chuong 3132\bai 1 chuong 3132\bin\Debug\bai 1 chuong 3132.exe
+C:\Users\STOnline\source\repos\bai 1 chuong 3132\bai 1 chuong 3132\bin\Debug\bai 1 chuong 3132.pdb
+C:\Users\STOnline\source\repos\bai 1 chuong 3132\bai 1 chuong 3132\obj\Debug\bai 1 chuong 3132.csproj.AssemblyReference.cache
+C:\Users\STOnline\source\repos\bai 1 chuong 3132\bai 1 chuong 3132\obj\Debug\bai_1_chuong_3132.Form1.resources
+C:\Users\STOnline\source\repos\bai 1 chuong 3132\bai 1 chuong 3132\obj\Debug\bai_1_chuong_3132.Properties.Resources.resources
+C:\Users\STOnline\source\repos\bai 1 chuong 3132\bai 1 chuong 3132\obj\Debug\bai 1 chuong 3132.csproj.GenerateResource.cache
+C:\Users\STOnline\source\repos\bai 1 chuong 3132\bai 1 chuong 3132\obj\Debug\bai 1 chuong 3132.csproj.CoreCompileInputs.cache
+C:\Users\STOnline\source\repos\bai 1 chuong 3132\bai 1 chuong 3132\obj\Debug\bai 1 chuong 3132.exe
+C:\Users\STOnline\source\repos\bai 1 chuong 3132\bai 1 chuong 3132\obj\Debug\bai 1 chuong 3132.pdb
+C:\Users\STOnline\source\repos\bai1_31_32\bai 1 chuong 3132\bin\Debug\bai 1 chuong 3132.exe.config
+C:\Users\STOnline\source\repos\bai1_31_32\bai 1 chuong 3132\bin\Debug\bai 1 chuong 3132.exe
+C:\Users\STOnline\source\repos\bai1_31_32\bai 1 chuong 3132\bin\Debug\bai 1 chuong 3132.pdb
+C:\Users\STOnline\source\repos\bai1_31_32\bai 1 chuong 3132\obj\Debug\bai 1 chuong 3132.csproj.AssemblyReference.cache
+C:\Users\STOnline\source\repos\bai1_31_32\bai 1 chuong 3132\obj\Debug\bai_1_chuong_3132.Form1.resources
+C:\Users\STOnline\source\repos\bai1_31_32\bai 1 chuong 3132\obj\Debug\bai_1_chuong_3132.Properties.Resources.resources
+C:\Users\STOnline\source\repos\bai1_31_32\bai 1 chuong 3132\obj\Debug\bai 1 chuong 3132.csproj.GenerateResource.cache
+C:\Users\STOnline\source\repos\bai1_31_32\bai 1 chuong 3132\obj\Debug\bai 1 chuong 3132.csproj.CoreCompileInputs.cache
+C:\Users\STOnline\source\repos\bai1_31_32\bai 1 chuong 3132\obj\Debug\bai 1 chuong 3132.exe
+C:\Users\STOnline\source\repos\bai1_31_32\bai 1 chuong 3132\obj\Debug\bai 1 chuong 3132.pdb

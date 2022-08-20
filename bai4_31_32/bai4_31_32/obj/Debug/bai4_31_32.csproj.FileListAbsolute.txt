@@ -1,0 +1,10 @@
+C:\Users\STOnline\source\repos\bai4_31_32\bai4_31_32\obj\Debug\bai4_31_32.csproj.AssemblyReference.cache
+C:\Users\STOnline\source\repos\bai4_31_32\bai4_31_32\obj\Debug\bai4_31_32.Form1.resources
+C:\Users\STOnline\source\repos\bai4_31_32\bai4_31_32\obj\Debug\bai4_31_32.Properties.Resources.resources
+C:\Users\STOnline\source\repos\bai4_31_32\bai4_31_32\obj\Debug\bai4_31_32.csproj.GenerateResource.cache
+C:\Users\STOnline\source\repos\bai4_31_32\bai4_31_32\obj\Debug\bai4_31_32.csproj.CoreCompileInputs.cache
+C:\Users\STOnline\source\repos\bai4_31_32\bai4_31_32\bin\Debug\bai4_31_32.exe.config
+C:\Users\STOnline\source\repos\bai4_31_32\bai4_31_32\bin\Debug\bai4_31_32.exe
+C:\Users\STOnline\source\repos\bai4_31_32\bai4_31_32\bin\Debug\bai4_31_32.pdb
+C:\Users\STOnline\source\repos\bai4_31_32\bai4_31_32\obj\Debug\bai4_31_32.exe
+C:\Users\STOnline\source\repos\bai4_31_32\bai4_31_32\obj\Debug\bai4_31_32.pdb

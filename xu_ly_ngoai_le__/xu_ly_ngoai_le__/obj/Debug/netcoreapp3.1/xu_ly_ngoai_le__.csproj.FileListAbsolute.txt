@@ -1,0 +1,14 @@
+D:\lap trinh\c#\xu_ly_ngoai_le__\xu_ly_ngoai_le__\bin\Debug\netcoreapp3.1\xu_ly_ngoai_le__.exe
+D:\lap trinh\c#\xu_ly_ngoai_le__\xu_ly_ngoai_le__\bin\Debug\netcoreapp3.1\xu_ly_ngoai_le__.deps.json
+D:\lap trinh\c#\xu_ly_ngoai_le__\xu_ly_ngoai_le__\bin\Debug\netcoreapp3.1\xu_ly_ngoai_le__.runtimeconfig.json
+D:\lap trinh\c#\xu_ly_ngoai_le__\xu_ly_ngoai_le__\bin\Debug\netcoreapp3.1\xu_ly_ngoai_le__.runtimeconfig.dev.json
+D:\lap trinh\c#\xu_ly_ngoai_le__\xu_ly_ngoai_le__\bin\Debug\netcoreapp3.1\xu_ly_ngoai_le__.dll
+D:\lap trinh\c#\xu_ly_ngoai_le__\xu_ly_ngoai_le__\bin\Debug\netcoreapp3.1\xu_ly_ngoai_le__.pdb
+D:\lap trinh\c#\xu_ly_ngoai_le__\xu_ly_ngoai_le__\obj\Debug\netcoreapp3.1\xu_ly_ngoai_le__.csproj.AssemblyReference.cache
+D:\lap trinh\c#\xu_ly_ngoai_le__\xu_ly_ngoai_le__\obj\Debug\netcoreapp3.1\xu_ly_ngoai_le__.GeneratedMSBuildEditorConfig.editorconfig
+D:\lap trinh\c#\xu_ly_ngoai_le__\xu_ly_ngoai_le__\obj\Debug\netcoreapp3.1\xu_ly_ngoai_le__.AssemblyInfoInputs.cache
+D:\lap trinh\c#\xu_ly_ngoai_le__\xu_ly_ngoai_le__\obj\Debug\netcoreapp3.1\xu_ly_ngoai_le__.AssemblyInfo.cs
+D:\lap trinh\c#\xu_ly_ngoai_le__\xu_ly_ngoai_le__\obj\Debug\netcoreapp3.1\xu_ly_ngoai_le__.csproj.CoreCompileInputs.cache
+D:\lap trinh\c#\xu_ly_ngoai_le__\xu_ly_ngoai_le__\obj\Debug\netcoreapp3.1\xu_ly_ngoai_le__.dll
+D:\lap trinh\c#\xu_ly_ngoai_le__\xu_ly_ngoai_le__\obj\Debug\netcoreapp3.1\xu_ly_ngoai_le__.pdb
+D:\lap trinh\c#\xu_ly_ngoai_le__\xu_ly_ngoai_le__\obj\Debug\netcoreapp3.1\xu_ly_ngoai_le__.genruntimeconfig.cache
